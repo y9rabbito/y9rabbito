@@ -46,6 +46,7 @@
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
      <img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+     <img src="https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text"/>
    </td>
    <td>
     <div align="center">
