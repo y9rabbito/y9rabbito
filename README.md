@@ -28,9 +28,9 @@
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <img src="https://img.shields.io/badge/-Kotlin-237F52FF?style=flat&logo=kotlin"/>
+     <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin"/>
      <br>
-     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android"/>
+     <img src="https://img.shields.io/badge/-Android-05122A?style=flat&logo=android"/>
      <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
      <br>
@@ -44,7 +44,7 @@
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio"/>
+     <img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
    </td>
    <td>
