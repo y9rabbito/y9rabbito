@@ -28,9 +28,9 @@
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white"/>
+     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin"/>
      <br>
-     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android"/>
      <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
      <br>
