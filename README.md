@@ -18,7 +18,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/y9rabbito/y9rabbito/images/open_source.jpg"/>
+        <img height="360em" src="https://github.com/y9rabbito/y9rabbito/blob/main/images/open_source.jpg"/>
      </p>
     </td>
   </tr>
