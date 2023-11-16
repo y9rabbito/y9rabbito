@@ -7,7 +7,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; Master of Engineering in Department of Computer Science at <a href="https://ut.ac.ir/en">Jadavpur University</a></li>
+        <li>🎓 &nbsp; Master of Engineering student in the Department of Computer Science and Engineering at <a href="http://www.jaduniv.edu.in/">Jadavpur University</a></li>
         <li>👑 &nbsp; Problem Solving, Data Structure and Algorithm </li>
         <li>🤔 &nbsp; Android Developement, Software Developement </li>
        </ul>
@@ -51,8 +51,7 @@
     <div align="center">
       <h2><b>Contact</b></h2>
       <br>
-      <p>International Teacher of programming languages, computer science subjects, coding
-        <br>contact me if you need help.
+      <p>International Teacher of programming languages, computer science subjects, coding contact me if you need help.
       </p>
       <br>
       <a href="mailto:sudipta.kumar.biswas@protonmail.com" >
