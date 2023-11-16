@@ -18,7 +18,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+        <img height="360em" src="https://github.com/y9rabbito/y9rabbito/images/open_source.jpg"/>
      </p>
     </td>
   </tr>
