@@ -7,7 +7,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; Master of Engineering student in the Department of Computer Science and Engineering at <a href="http://www.jaduniv.edu.in/">Jadavpur University</a></li>
+        <li>🎓 &nbsp; Computer Science Master's Student</li>
         <li>👑 &nbsp; Problem Solving, Data Structure and Algorithm </li>
         <li>🤔 &nbsp; Android Developement, Software Developement </li>
        </ul>
