@@ -52,14 +52,11 @@
     <div align="center">
       <h2><b>Contact</b></h2>
       <br>
-      <p>International Teacher of programming languages, computer science subjects, coding contact me if you need help.
+      <p>Contact me.
       </p>
       <br>
       <a href="mailto:sudipta.kumar.biswas@protonmail.com" >
       <img align="center" alt="Sudipta Kumar Biswas | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/sudipta-kumar-biswas-436aa118b/" >
-      <img align="center" alt="Sudipta Kumar Biswas | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
