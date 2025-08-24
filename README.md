@@ -7,9 +7,9 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; Computer Science Master's Student</li>
+        <li>🎓 &nbsp; Computer Science</li>
         <li>👑 &nbsp; Problem Solving, Data Structure and Algorithm </li>
-        <li>🤔 &nbsp; Android Developement, Software Developement </li>
+        <li>🤔 &nbsp; Software Engineering, Biomedical Engineering, AI/ML </li>
        </ul>
        <p align="center">
          <br>
