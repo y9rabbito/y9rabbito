@@ -66,4 +66,4 @@
 
 ------
 
-Credit: [Sudipta Kumar Biswas](https://github.com/y9rabbito)
+Credit: [y9rabbito](https://github.com/y9rabbito)
