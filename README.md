@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Sudipta Kumar Biswas
+## I'm y9rabbito
 ![](https://komarev.com/ghpvc/?username=y9rabbito&color=0069b4)
 <table>
   <tr>
